@@ -37,7 +37,7 @@ This repository contains my daily Java programming practice, coding problems, an
 
 | Day | Topic | Status |
 |---|---|---|
-| Day 01 | Java Basics | 🔄 In Progress |
+| Day 01 | Java Basics | completed |
 | Day 02 | Conditional Statements | ⏳ Upcoming |
 | Day 03 | Loops & Patterns | ⏳ Upcoming |
 | Day 04 | Arrays | ⏳ Upcoming |
