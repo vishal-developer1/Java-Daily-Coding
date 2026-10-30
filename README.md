@@ -35,13 +35,13 @@ This repository contains my daily Java programming practice, coding problems, an
 
 ## 📅 Daily Progress
 
-| Day | Topic | Status |
-|---|---|---|
-| Day 01 | Java Basics | completed |
-| Day 02 | Conditional Statements | ⏳ Upcoming |
-| Day 03 | Loops & Patterns | ⏳ Upcoming |
-| Day 04 | Arrays | ⏳ Upcoming |
-| Day 05 | Strings | ⏳ Upcoming |
+| Topic | Status |
+|---|---|
+| Java Basics | completed |
+| Conditional Statements | ⏳ Upcoming |
+| Loops & Patterns | ⏳ Upcoming |
+| Arrays | ⏳ Upcoming |
+| Strings | ⏳ Upcoming |
 
 *Progress will be updated as I complete each day's coding practice.*
 
