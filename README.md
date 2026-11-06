@@ -38,8 +38,8 @@ This repository contains my daily Java programming practice, coding problems, an
 | Topic | Status |
 |---|---|
 | Java Basics | completed |
-| Conditional Statements | ⏳ Upcoming |
-| Loops & Patterns | ⏳ Upcoming |
+| Conditional Statements | completed |
+| Loops & Patterns | completed |
 | Arrays | ⏳ Upcoming |
 | Strings | ⏳ Upcoming |
 
